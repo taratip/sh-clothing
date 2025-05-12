@@ -13,7 +13,7 @@ import {
  } from 'firebase/firestore';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyApAj1X5PCC1nM_uKup_YZRd6ObHbO9smo",
+    apiKey: "<api key>",
     authDomain: "sh-clothing-db.firebaseapp.com",
     projectId: "sh-clothing-db",
     storageBucket: "sh-clothing-db.firebasestorage.app",
